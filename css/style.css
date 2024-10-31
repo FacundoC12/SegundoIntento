@@ -207,7 +207,7 @@ img {
 @media (min-width: 768px) {
     .curso {
         display: grid;
-        grid-template-columns: 1fr 2fr;
+        grid-template-colu.numns: 1fr 2fr;
         column-gap: 2rem;
     }
 }
@@ -270,4 +270,9 @@ img {
 }
 .campo__field--textarea {
     height: 20rem;
+}
+.nueva-clase{
+color:#000000;
+background-color: #45b040;
+
 }
